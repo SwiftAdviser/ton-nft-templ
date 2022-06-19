@@ -1,0 +1,35 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 99
+    },
+    {
+      "trait_type" : "stamina",
+      "value" : 11.7
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sleepy"
+    },
+    {
+      "display_type" : "boost_number",
+      "trait_type" : "aqua_power",
+      "value" : 30
+    },
+    {
+      "display_type" : "boost_percentage",
+      "trait_type" : "stamina_increase",
+      "value" : 15
+    },
+    {
+      "display_type" : "number",
+      "trait_type" : "generation",
+      "value" : 1
+    }
+  ],
+  "name" : "Iron sword",
+  "description" : "Useful in most situations, but not as effective as the Diamond Sword.",
+  "external_url" : "https://nft-collection.com/",
+  "image" : "https://sword.com/images/sword.png"
+}
